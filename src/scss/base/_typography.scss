@@ -1,0 +1,12 @@
+@import "colors";
+
+h1 {
+	font-size: 4rem;
+	color: $primary;
+}
+
+p {
+	font-size: 2rem;
+	color: white;
+	background: $danger;
+}
